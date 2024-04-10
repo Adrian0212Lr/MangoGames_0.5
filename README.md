@@ -1,2 +1,2 @@
-# MangoGames_0.5
+# MangoGames
 Pagina Web HTML-CSS (Mika-Zac)
